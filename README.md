@@ -11,3 +11,6 @@ module.exports = {
   plugins: [],
 }
 
+
+---------------------------------------
+Here deployment on file is not working properly show ignore it to run in on vs code 
